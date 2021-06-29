@@ -7,12 +7,12 @@ Module 2 VBA_Challenge README
 Author: Monica Holmes
 Date: March 1, 2021
 
-#•	Overview of Project:
+#	Overview of Project:
 
 The Purpose of this analysis was to utilize Visual Basic for Applications (VBA) to write and refactor macro code that will automate analyses of Steve’s stock data and then calculate and measure the codes performance. I wrote the code then utilized refactoring to write a faster code.
 
 
-#•	Results:
+# Results:
 
 The results show that when I first ran the macro code (the original results of Green Stock data) it took the system 0.7382813 and 0.7382813 seconds to run 2017 and 2018 data, respectively (see screen prints below):
 
@@ -27,7 +27,7 @@ After refactoring the code in VBA Challenge, the run times for 2017 and 2018 wer
 ![image](https://user-images.githubusercontent.com/78371845/123724348-3010dd80-d85a-11eb-846d-25277b7ba7e3.png)
 
 
-#•	Summary:
+#	Summary:
 
 In summary, the advantages of refactoring code are, the run times tend to be faster, and you may copy and paste some of the code then edit it or simply craft a shorter code. The disadvantages of refactoring are, you may copy the wrong original code, paste the wrong code or to the wrong location, or receive an error because you need to edit the code or create an array versus a variable. 
 
